@@ -1,4 +1,4 @@
-package life.aper.community.community;
+package life.aper.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package life.aper.community.community;
+package life.aper.community;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
