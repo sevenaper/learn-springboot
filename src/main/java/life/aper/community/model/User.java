@@ -7,6 +7,7 @@ public class User
     private String accountId;
     private String token;
     private Long gmtCreate;
+    private Long gmtModified;
 
     public Integer getId()
     {
@@ -68,5 +69,5 @@ public class User
         this.gmtModified = gmtModified;
     }
 
-    private Long gmtModified;
+
 }
